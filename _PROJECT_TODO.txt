@@ -1,0 +1,69 @@
+
+
+
+
+
+
+/********************
+*  BROWSER BOOKMARKING INTEGRATION
+**/
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/bookmarks
+
+
+
+
+
+/********************
+*  MEME MAKER 1.0
+**/
+
+Google image search link for memes on each verse
+https://www.google.com/search?q=Psalm+72:6+kjv&client=firefox-b-1-d&sxsrf=ALeKk036uLJupArM-tg6Af9ORNpYHo4OVA:1614450973488&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiTrqDG2orvAhUMT6wKHQ_9DqYQ_AUoAXoECAcQAw&biw=1416&bih=785
+
+
+/********************
+*  UI UPDATES
+**/
+
+Add initial scroll up and down to load more if there is only a verse or two in the view instead of a click to load more.  This way i can use the click event on each verse for selecting the verse, and use scroll up and down for loading more when there is not enough
+
+
+Add click selecting 
+	- Clicking on a verse to add it to a list for aggregation
+
+
+multi term search results copy to clipboard button not copying the list to clipboard
+
+
+/********************
+*  SEARCH AND BACKEND UPDATES
+**/
+
+Add secondary search layer to search NIV for keywords and return kjv equivelants and identify them somehow in the UI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
